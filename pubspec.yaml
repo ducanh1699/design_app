@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   animated_text_kit: ^4.2.2
   firebase_auth: ^3.8.0
+  firebase_core: ^1.10.0  
   # animated_text_kit: ^4.2.2
 
 dev_dependencies:
