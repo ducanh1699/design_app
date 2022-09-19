@@ -1,33 +1,62 @@
 {
   "project_info": {
-    "project_number": "310076701710",
-    "project_id": "appdemo-b5d9f",
-    "storage_bucket": "appdemo-b5d9f.appspot.com"
+    "project_number": "480612892950",
+    "project_id": "fir-d716d",
+    "storage_bucket": "fir-d716d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:310076701710:android:7d4948e0314c31f369105f",
+        "mobilesdk_app_id": "1:480612892950:android:64f4e05e3cedc18d8b1037",
         "android_client_info": {
-          "package_name": "com.example.flutter_application"
+          "package_name": "com.example.firebase1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "310076701710-up07u9k169p8id0rqai3v98kdos0buit.apps.googleusercontent.com",
+          "client_id": "480612892950-23gaii8d63tj5aih4utf2uocs6fi1rra.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDl8QHW-XmOW-teHs0YczSAPwftyYpuke4"
+          "current_key": "AIzaSyA4lWZWbcbsG4MhDbLcwpCTaHTh4Ul_nq8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "310076701710-up07u9k169p8id0rqai3v98kdos0buit.apps.googleusercontent.com",
+              "client_id": "480612892950-23gaii8d63tj5aih4utf2uocs6fi1rra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480612892950:android:c363620f2b729ae38b1037",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480612892950-23gaii8d63tj5aih4utf2uocs6fi1rra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4lWZWbcbsG4MhDbLcwpCTaHTh4Ul_nq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480612892950-23gaii8d63tj5aih4utf2uocs6fi1rra.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
